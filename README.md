@@ -1,16 +1,28 @@
-### Hi there 👋
+## Projects and Interests
 
-<!--
-**TheGeminiAI/TheGeminiAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portfolio: [geminiai.dev](https://geminiai.dev/)
 
-Here are some ideas to get you started:
+### Programming languages: 
+- Python
+- C/C#
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experienced in following fields: 
+- Computer vision
+- Deep learning
+- Voice activity detection
+- Keyword recognition
+- Feature engineering and extaction
+- Test driven development
+- Agile project management
+
+### Currently learning:
+- iOS app development
+- Face detection and recognition
+- Deployment of machine learning models on iOS platform
+
+### How to get in touch with me:
+- Follow me on twitter [@AskGeminiAI](https://twitter.com/AskGeminiAI)
+- Follow me on instagram [@gemini.ai](https://www.instagram.com/gemini.ai/)
+- Follow me on medium [@GeminiAI](https://medium.com/@GeminiAI)
+- Buy me a coffee: https://www.buymeacoffee.com/geminiai
