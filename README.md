@@ -1,6 +1,6 @@
 ## Projects and Interests
 
-Portfolio: [geminiai.dev](https://geminiai.dev/)
+### Portfolio: [geminiai.dev](https://geminiai.dev/)
 
 ### Programming languages: 
 - Python
